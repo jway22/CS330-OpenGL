@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\jway2\source\repos\CS330 Final\Source.cpp(369,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jway2\source\repos\CS330 Final\Source.cpp(499,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jway2\source\repos\CS330 Final\Source.cpp(500,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jway2\source\repos\CS330 Final\Source.cpp(504,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jway2\source\repos\CS330 Final\Source.cpp(505,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jway2\source\repos\CS330 Final\Source.cpp(507,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jway2\source\repos\CS330 Final\Source.cpp(508,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jway2\source\repos\CS330 Final\Source.cpp(517,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS330 Final.vcxproj -> C:\Users\jway2\source\repos\CS330 Final\Debug\CS330 Final.exe
